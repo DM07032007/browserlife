@@ -1,2 +1,3 @@
-# browserlife
-A text based game about life.
+# Browser Life
+A text based game about life. 
+
